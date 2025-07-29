@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg" alt="Titanic" width="600"/>
-</p>
-
 # 🚢 Titanic Survival Prediction - Task 1
 
 ### 📌 Internship Project - **CodSoft**
@@ -102,7 +98,7 @@ To build and evaluate a machine learning model that predicts whether a passenger
 
 ## 🔗 Links
 
-- 📂 View Notebook on GitHub :
+- 📂 View Notebook on GitHub : https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Titanic-Survival-Predicition-checkpoint.ipynb
 - 💼 Connect on LinkedIn : www.linkedin.com/in/maheshwari-d-378aab325
 
 ---
