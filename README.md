@@ -1,6 +1,6 @@
 ## Titanic Survival Prediction 
 
-![Titanic](C:/Users/mahes/Downloads/Codsoft/titanic-img.jpg)
+![Titanic](titanic-img.jpg)
 
 #  📌 Internship Project at **CodSoft** - 🚢 Titanic Survival Prediction - Task 1
 
