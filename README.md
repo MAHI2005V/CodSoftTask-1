@@ -1,6 +1,6 @@
 ## Titanic Survival Prediction 
 
-![Titanic](https://www.encyclopedia-titanica.org/images/titanic-sailing.jpg)
+![Titanic](C:/Users/mahes/Downloads/Codsoft/titanic-img.jpg)
 
 #  📌 Internship Project at **CodSoft** - 🚢 Titanic Survival Prediction - Task 1
 
