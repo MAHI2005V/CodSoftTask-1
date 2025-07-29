@@ -96,8 +96,10 @@ Random Forest Classifier
 
 ## 📊 Tableau Dashboard Highlights
 
-🚨 < img src = "Tableau Public - titanic 7_24_2025 10_07_06 PM.png" > 
+ <p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_07_06 PM.png" alt="Titanic" width="500">
 </p>
+
 
 
 ---
