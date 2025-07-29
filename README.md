@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction – CodSoft Internship
 
- <p align ="center"> ![Titanic Image](titanic-img.jpg) </p>
+ ![Titanic Image](titanic-img.jpg) 
 
 ---
 
@@ -96,8 +96,7 @@ Random Forest Classifier
 
 ## 📊 Tableau Dashboard Highlights
 
-🚨 <p align="center">
-   < img src = "https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Tableau%20Public%20-%20titanic%207_24_2025%2010_07_06%20PM.png"  alt="Dashboard" width="500"/>
+🚨 <p align="center">  < img src = "Tableau Public - titanic 7_24_2025 10_07_06 PM.png"  alt="Dashboard" width="500"/> 
 </p>
 ---
 
