@@ -1,4 +1,4 @@
-![Titanic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.encyclopedia-titanica.org%2Fcamerons-titanic-fifteen-years-on-a-critical-re-appraisal-17641.html&psig=AOvVaw1i9w-vfCjDpKnKu763sZIr&ust=1753878794335000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNimlOiJ4o4DFQAAAAAdAAAAABAE)
+![Titanic](https://www.encyclopedia-titanica.org/images/titanic-sailing.jpg)
 
 # 🚢 Titanic Survival Prediction - Task 1
 
