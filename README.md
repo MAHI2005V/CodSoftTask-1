@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction – CodSoft Internship
 
- < p align="center"> ![Titanic Image](titanic-img.jpg) </p>
+ <p align ="center"> ![Titanic Image](titanic-img.jpg) </p>
 
 ---
 
@@ -35,10 +35,12 @@ Embarked: Filled with mode
 
 🔄 Converted categorical columns (Sex, Embarked) to numerical using Label Encoding
 
+
 🧠 2. Feature Engineering
 ✅ Ensured all features were numeric and model-ready
 
 🛠️ Selected relevant features to train the model
+
 
 🤖 3. Model Building
 🔬 Algorithms used:
@@ -53,6 +55,7 @@ Random Forest Classifier
 
 25% for testing
 
+
 📏 4. Evaluation Metrics
 ✔️ Accuracy Score
 
@@ -61,6 +64,7 @@ Random Forest Classifier
 ✔️ Classification Report
 
 ✔️ Cross-Validation (to validate performance robustness)
+
 
 📊 5. Visualization
 🎯 Used Seaborn to plot a Confusion Matrix Heatmap
@@ -92,8 +96,9 @@ Random Forest Classifier
 
 ## 📊 Tableau Dashboard Highlights
 
-🚨 *You can insert your content or a Tableau Public link here once published.*
-
+🚨 <p align="center">
+   < img src = "https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Tableau%20Public%20-%20titanic%207_24_2025%2010_07_06%20PM.png"  alt="Dashboard" width="500"/>
+</p>
 ---
 
 ## 🌟 Key Takeaways
@@ -107,8 +112,8 @@ Random Forest Classifier
 
 ## 🔗 Links
 
-📂 View Notebook on GitHub :
-
+📂 View Notebook on GitHub : https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Titanic-Survival-Predicition-checkpoint.ipynb
+💼 Connect on LinkedIn : www.linkedin.com/in/maheshwari-d-378aab325
 ---
 
 ## 🔖 Hashtags
