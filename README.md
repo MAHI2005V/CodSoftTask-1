@@ -102,37 +102,37 @@ Random Forest Classifier
 
  <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_07_06 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Survival Analysis Overview</strong></em>
+  <em><strong>Titanic Dataset - Survival Analysis Overview</strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_07_29 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Survival by Age </strong></em>
+  <em><strong>Titanic Dataset - Survival by Age </strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_07_33 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Male and Female Passengers Survived</strong></em>
+  <em><strong>Titanic Dataset - Male and Female Passengers Survived</strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_08_02 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Passengers family abroad</strong></em>
+  <em><strong>Titanic Dataset - Passengers family abroad</strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_08_55 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Passenger's Port of Embarkation who survived</strong></em>
+  <em><strong>Titanic Dataset - Passenger's Port of Embarkation who survived</strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_09_04 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Passengers survived  based on fare </strong></em>
+  <em><strong>Titanic Dataset - Passengers survived  based on fare </strong></em><br><br>
 </p>
 
 <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_09_52 PM.png" alt="Titanic" width="700"><br>
-  <em><strong>Titanic Dataset - Survival of passengers categorized by class</strong></em>
+  <em><strong>Titanic Dataset - Survival of passengers categorized by class</strong></em><br><br>
 </p>
 
 ---
@@ -149,6 +149,7 @@ Random Forest Classifier
 ## 🔗 Links
 
 📂 View Notebook on GitHub : https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Titanic-Survival-Predicition-checkpoint.ipynb
+
 💼 Connect on LinkedIn : www.linkedin.com/in/maheshwari-d-378aab325
 ---
 
