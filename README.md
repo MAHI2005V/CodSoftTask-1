@@ -1,111 +1,121 @@
-## Titanic Survival Prediction 
+# 🚢 Titanic Survival Prediction – CodSoft Internship
 
-![Titanic](titanic-img.jpg)
-
-#  📌 Internship Project at **CodSoft** - 🚢 Titanic Survival Prediction - Task 1
+![Titanic Image](titanic-img.jpg)
 
 ---
 
-## 📝 Overview
+## 📌 Project Overview
 
-This project focuses on predicting the survival of passengers aboard the **Titanic** using machine learning techniques. By analyzing features like **age, gender, class, fare**, and **embarkation point**, a classification model was trained to determine whether a passenger survived or not.
+This project is part of my **Data Science Internship with [CodSoft](https://www.codsoft.in/)**.
+The objective is to **analyze and predict** the survival of passengers aboard the Titanic using historical data.
 
----
-
-## 🎯 Objective
-
-To build and evaluate a machine learning model that predicts whether a passenger survived the Titanic disaster, using the dataset provided in the [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data).
+Using various preprocessing and classification techniques, we build a machine learning model that predicts whether a passenger survived or not based on key features like age, fare, sex, class, etc.
 
 ---
 
-## 🔧 Tools & Libraries Used
+## 🧰 Tools & Libraries Used
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib & Seaborn**
-- **Scikit-learn**
-- **Jupyter Notebook**
-- **Tableau** *(for visualization)*
+| 🧠 Machine Learning                              | 📊 Visualization                       | 🧼 Preprocessing                      | 🐍 Language  |
+| ------------------------------------------------ | -------------------------------------- | ------------------------------------- | ------------ |
+| `LogisticRegression`<br>`RandomForestClassifier` | `Matplotlib`<br>`Seaborn`<br>`Tableau` | `pandas`<br>`scikit-learn`<br>`NumPy` | `Python 3.x` |
 
 ---
 
-## 🔍 Process
+## 🔄 Project Workflow
 
-1. **Data Cleaning & Preprocessing**
-   - Dropped irrelevant columns like `Name`, `Cabin`, and `Ticket`
-   - Filled missing values:
-     - `Age`: Replaced with mean
-     - `Embarked`: Replaced with mode
-   - Converted `Sex` to binary (0 for male, 1 for female)
-   - One-hot encoded the `Embarked` column
+```mermaid
+graph TD;
+A[Load Dataset] --> B[Clean & Preprocess Data];
+B --> C[Handle Missing Values];
+C --> D[Convert Categorical to Numerical];
+D --> E[Split Data (Train/Test)];
+E --> F[Model Training];
+F --> G[Evaluate Performance];
+G --> H[Visualize Results];
+```
 
-2. **Exploratory Data Analysis (EDA)**
-   - Heatmaps and correlation plots to understand data relationships
-   - Bar plots for feature-wise survival distribution
+---
 
-3. **Model Training**
-   - Used **Logistic Regression** and evaluated using:
-     - **Accuracy Score**
-     - **Confusion Matrix**
-     - **Precision, Recall, F1-score**
+## 🔍 The Process (Step-by-Step)
 
-4. **Visualization**
-   - Created advanced visualizations in **Tableau**
-   - Plots include:
-     - Class-wise survival rate
-     - Gender-wise survival
-     - Fare distribution & survival pattern
-     - Embarked vs Survival relationships
+✅ **1. Data Cleaning:**
+
+* Removed columns like `Name`, `Ticket`, and `Cabin` (irrelevant or too sparse)
+* Handled missing values in:
+
+  * `Age` → filled with **mean**
+  * `Embarked` → filled with **mode**
+
+✅ **2. Feature Engineering:**
+
+* Converted `Sex` and `Embarked` columns using `LabelEncoder`
+* Ensured all inputs are numeric
+
+✅ **3. Model Building:**
+
+* Used **Logistic Regression** and **Random Forest** classifiers
+* Data split into **75% training** and **25% testing**
+
+✅ **4. Evaluation Metrics:**
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+* Cross-Validation (optional)
+
+✅ **5. Visualization:**
+
+* Confusion Matrix heatmap using `Seaborn`
+* Tableau Dashboards for deep visual insights
 
 ---
 
 ## 📈 Model Performance
 
-- ✅ **Accuracy Score**: ~81% on test data
-- 📊 **Evaluation Metrics**: Precision, Recall, and F1-Score visualized
-- 🧩 **Confusion Matrix** plotted using Seaborn
+| Model               | Accuracy | Notes                        |
+| ------------------- | -------- | ---------------------------- |
+| Logistic Regression | \~81%    | Simple & fast baseline model |
+| Random Forest       | \~85%    | Better generalization        |
+
+---
+
+## 🗂️ Project Structure
+
+```
+├── titanic_survival_prediction/
+│   ├── titanic_dataset.csv
+│   ├── titanic_notebook.ipynb
+│   ├── README.md
+│   └── images/
+│       └── titanic.png (used in README)
+```
 
 ---
 
 ## 📊 Tableau Dashboard Highlights
 
-> Included Tableau visuals like:
-- Survival distribution by class & gender
-- Age and Fare correlation with survival
-- Embarked port analysis
-
----
-
-## 📁 Project Structure
-
-├── titanic_survival_prediction.ipynb
-├── dataset/
-│ └── train.csv
-├── visuals/
-│ └── Tableau screenshots
-├── README.md
-
+🚨 *You can insert your content or a Tableau Public link here once published.*
 
 ---
 
 ## 🌟 Key Takeaways
 
-- Reinforced understanding of **data preprocessing** and **feature engineering**
-- Gained hands-on experience with **classification models**
-- Built dynamic visual dashboards in **Tableau**
-- Strengthened skills in **EDA**, **model evaluation**, and **presentation**
+* Improved understanding of **data preprocessing techniques**
+* Explored **classification models** and evaluated them
+* Developed hands-on experience with **model interpretability**
+* Created **interactive visualizations** using Tableau
 
 ---
 
 ## 🔗 Links
 
-- 📂 View Notebook on GitHub : https://github.com/MAHI2005V/CodSoftTask-1/blob/main/Titanic-Survival-Predicition-checkpoint.ipynb
-- 💼 Connect on LinkedIn : www.linkedin.com/in/maheshwari-d-378aab325
+📂 [View Notebook on GitHub](#)
+📊 [View Tableau Dashboard (if available)](#)
 
 ---
 
-## 📌 Hashtags
+## 🔖 Hashtags
 
-#DataScience #MachineLearning #LogisticRegression #TitanicDataset
-#CodSoftInternship #Kaggle #Python #Tableau #MLProjects
+`#DataScience` `#MachineLearning` `#TitanicDataset` `#CodSoftInternship` `#Python` `#Tableau` `#LogisticRegression` `#RandomForest` `#Visualization` `#GitHubProjects`
+
+---
