@@ -1,6 +1,10 @@
 # 🚢 Titanic Survival Prediction – CodSoft Internship
 
- ![Titanic Image](titanic-img.jpg) 
+ <p align="center">
+  <img src="titanic-img.jpg" alt="Titanic" width="500">
+    <em><strong>RMS Titanic departing Southampton for the only time on 10 April 1912</strong></em>
+</p>
+
 
 ---
 
@@ -98,9 +102,38 @@ Random Forest Classifier
 
  <p align="center">
   <img src="Tableau Public - titanic 7_24_2025 10_07_06 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Survival Analysis Overview</strong></em>
 </p>
 
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_07_29 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Survival by Age </strong></em>
+</p>
 
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_07_33 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Male and Female Passengers Survived</strong></em>
+</p>
+
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_08_02 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Passengers family abroad</strong></em>
+</p>
+
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_08_55 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Passenger's Port of Embarkation who survived</strong></em>
+</p>
+
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_09_04 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Passengers survived  based on fare </strong></em>
+</p>
+
+<p align="center">
+  <img src="Tableau Public - titanic 7_24_2025 10_09_52 PM.png" alt="Titanic" width="500">
+  <em><strong>Titanic Dataset - Survival of passengers categorized by class</strong></em>
+</p>
 
 ---
 
