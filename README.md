@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction – CodSoft Internship
+#  <p align="center"> 🚢 Titanic Survival Prediction – CodSoft Internship </p>
 
  <p align="center">
   <img src="titanic-img.jpg" alt="Titanic" width="500"><br>
