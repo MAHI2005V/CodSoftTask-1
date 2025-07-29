@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction – CodSoft Internship
 
-![Titanic Image](titanic-img.jpg)
+ < p align="center"> ![Titanic Image](titanic-img.jpg) </p>
 
 ---
 
@@ -22,61 +22,59 @@ Using various preprocessing and classification techniques, we build a machine le
 ---
 
 ## 🔄 Project Workflow
+Below is a step-by-step breakdown of how the Titanic Survival Prediction project was executed:
 
-```mermaid
-graph TD;
-A[Load Dataset] --> B[Clean & Preprocess Data];
-B --> C[Handle Missing Values];
-C --> D[Convert Categorical to Numerical];
-D --> E[Split Data (Train/Test)];
-E --> F[Model Training];
-F --> G[Evaluate Performance];
-G --> H[Visualize Results];
-```
+📁 1. Data Cleaning & Preprocessing
+🔍 Removed irrelevant/sparse columns: Name, Ticket, and Cabin
+
+🧹 Handled missing values:
+
+Age: Filled with mean
+
+Embarked: Filled with mode
+
+🔄 Converted categorical columns (Sex, Embarked) to numerical using Label Encoding
+
+🧠 2. Feature Engineering
+✅ Ensured all features were numeric and model-ready
+
+🛠️ Selected relevant features to train the model
+
+🤖 3. Model Building
+🔬 Algorithms used:
+
+Logistic Regression
+
+Random Forest Classifier
+
+📊 Split the dataset:
+
+75% for training
+
+25% for testing
+
+📏 4. Evaluation Metrics
+✔️ Accuracy Score
+
+✔️ Confusion Matrix
+
+✔️ Classification Report
+
+✔️ Cross-Validation (to validate performance robustness)
+
+📊 5. Visualization
+🎯 Used Seaborn to plot a Confusion Matrix Heatmap
+
+📉 Created rich interactive dashboards in Tableau for in-depth insights
+
 
 ---
 
-## 🔍 The Process (Step-by-Step)
+## ## 📈 Model Performance
 
-✅ **1. Data Cleaning:**
-
-* Removed columns like `Name`, `Ticket`, and `Cabin` (irrelevant or too sparse)
-* Handled missing values in:
-
-  * `Age` → filled with **mean**
-  * `Embarked` → filled with **mode**
-
-✅ **2. Feature Engineering:**
-
-* Converted `Sex` and `Embarked` columns using `LabelEncoder`
-* Ensured all inputs are numeric
-
-✅ **3. Model Building:**
-
-* Used **Logistic Regression** and **Random Forest** classifiers
-* Data split into **75% training** and **25% testing**
-
-✅ **4. Evaluation Metrics:**
-
-* Accuracy Score
-* Confusion Matrix
-* Classification Report
-* Cross-Validation (optional)
-
-✅ **5. Visualization:**
-
-* Confusion Matrix heatmap using `Seaborn`
-* Tableau Dashboards for deep visual insights
-
----
-
-## 📈 Model Performance
-
-| Model               | Accuracy | Notes                        |
-| ------------------- | -------- | ---------------------------- |
-| Logistic Regression | \~81%    | Simple & fast baseline model |
-| Random Forest       | \~85%    | Better generalization        |
-
+- ✅ **Accuracy Score**: ~81% on test data
+- 📊 **Evaluation Metrics**: Precision, Recall, and F1-Score visualized
+- 🧩 **Confusion Matrix** plotted using Seaborn
 ---
 
 ## 🗂️ Project Structure
@@ -109,8 +107,7 @@ G --> H[Visualize Results];
 
 ## 🔗 Links
 
-📂 [View Notebook on GitHub](#)
-📊 [View Tableau Dashboard (if available)](#)
+📂 View Notebook on GitHub :
 
 ---
 
